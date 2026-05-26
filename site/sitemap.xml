@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://example.com/</loc>
+        <loc>https://anthocyanincau.github.io/my-zensical-site/</loc>
       </url>
       <url>
-        <loc>https://example.com/markdown/</loc>
+        <loc>https://anthocyanincau.github.io/my-zensical-site/markdown/</loc>
       </url>
       <url>
-        <loc>https://example.com/notes/hello-world/</loc>
-      </url>
-      <url>
-        <loc>https://example.com/notes/%E8%8A%B1%E8%89%B2%E8%8B%B7%E9%85%B8%E5%BA%A6%E7%B3%BB%E6%95%B0%20pKa%20%E6%8B%9F%E5%90%88/</loc>
+        <loc>https://anthocyanincau.github.io/my-zensical-site/notes/%E8%8A%B1%E8%89%B2%E8%8B%B7%E9%85%B8%E5%BA%A6%E7%B3%BB%E6%95%B0%20pKa%20%E6%8B%9F%E5%90%88/</loc>
       </url>
 </urlset>
