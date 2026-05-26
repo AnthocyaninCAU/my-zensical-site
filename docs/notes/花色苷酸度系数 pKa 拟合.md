@@ -104,7 +104,7 @@ $$
 
 #### 4. 光谱与颜色的转换
 
-(1) 利用 [生成颜色表.xlsm](..\file\生成颜色表1.xlsm)
+(1)  <a href="../file/SpcToColor.xlsm" download>下载生成颜色表.xlsm</a>
 
 (2) 这里需要 Origin软件的 Chromaticity Diagram 插件，可以在Origin自带的商店里安装。
 
